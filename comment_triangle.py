@@ -1,7 +1,7 @@
 # Given 3 angles of a triangle as input ,print if the triangle is "Acute","Obtuse",Right angled ,"Invalid"
 
 '''
-This module contains 
+This module contains is_triangle and comment_triangle functions.
 
 Author: Narayan Jat
 Date: December 14,2022
